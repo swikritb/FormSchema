@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FormSchema/static/css/main.073c9b0a.css",
+    "main.js": "/FormSchema/static/js/main.2f8bd328.js",
+    "index.html": "/FormSchema/index.html",
+    "main.073c9b0a.css.map": "/FormSchema/static/css/main.073c9b0a.css.map",
+    "main.2f8bd328.js.map": "/FormSchema/static/js/main.2f8bd328.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2f8bd328.js"
+  ]
+}
